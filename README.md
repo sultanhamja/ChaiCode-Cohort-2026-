@@ -20,4 +20,4 @@ Page structure:
   - footer includes contact details and copyright information
 
 below is a preview of resume:
-![image alt] (https://github.com/sultanhamja/ChaiCode-Cohort-2026-/blob/f8d938afd42d94f595bddf9e7c6d85c6e2610c65/hamja%20resume%20html%20ss.png)
+![image alt](https://github.com/sultanhamja/ChaiCode-Cohort-2026-/blob/f8d938afd42d94f595bddf9e7c6d85c6e2610c65/hamja%20resume%20html%20ss.png)
